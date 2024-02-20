@@ -6,7 +6,26 @@ Hi! My name is Vannlithi Kim 😄
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Express.js](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![React.js](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Material-UI](https://skillicons.dev/icons?i=mui)](https://skillicons.dev)
+
 <br/>
 
 ### Socials
