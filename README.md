@@ -34,4 +34,7 @@ Hi! My name is Vannlithi Kim 😄
   <a href="www.linkedin.com/in/kim-vannlithi-2231b3294">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://testing-hmwp.vercel.app/">
+     <img src="https://img.shields.io/badge/Portfolio-Visit-yellow?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
+  </a>
 </div>
